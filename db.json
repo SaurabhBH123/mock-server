@@ -1,5 +1,19 @@
 {
-    "dogs": [
-        
-    ]
+  "dogs": [
+    {
+      "name": "cdcsdc",
+      "age": "2",
+      "gender": "male",
+      "place": " xcxczxc",
+      "id": 1
+    },
+    {
+      "name": "scsc",
+      "age": "3",
+      "gender": "male",
+      "place": "cdscs",
+      "id": 2
+    }
+  ],
+  "products":[]
 }
